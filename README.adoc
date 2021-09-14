@@ -1,9 +1,9 @@
 
 # Projet1
-<h1>Projet Guess</h1>
+# Projet Guess
  Guess What
 
-
+[%hardbreaks]
 Thème
 
 
@@ -32,8 +32,8 @@ Si ce n’est pas la bonne carte, alors si l’aide est activée, le joeur est i
 
 
 Fin de la partie.
-<h1>Challenge 1</h1>
-
+# Challenge 1
+[%hardbreaks]
 Dans le challenge 1 ma mission était de vérifier les différentes versions de Php et composer grace aux commandes php -version et composer -V ensuite j'ai cloné le projet, j'ai ensuite télécharger et installer le fichier composer Json avec composer install  et finit par installer le plugin Phpunit avec php --version.
 
 Je n'ai pas rencontré de problème durant ce challenge car rien de bien compliquer était demander  :smile:
